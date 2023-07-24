@@ -1,0 +1,4 @@
+to delete i named the id = delete
+to set the quantity needed there is that span with id "quan"
+to set the price there is that span with the id "price"
+the class "product" to make the div visible 
